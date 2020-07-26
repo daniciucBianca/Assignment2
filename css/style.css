@@ -38,6 +38,7 @@ p {
 
 .section{
 	margin-right: 40px;
+	position: relative;
 }
 
 		/*desktop mode: */
@@ -185,8 +186,8 @@ p {
 	background-color: pink;
 	width: 100px;
 	position: absolute;
-	top: 3px;
-	left: 351px;
+	top: -30px;
+	left: 465px;
 
 }
 .beef{
@@ -196,8 +197,8 @@ p {
 	background-color: #b02121;
 	width: 100px;
 	position: absolute;
-	top: 3px;
-	left: 833px;
+	top: -30px;
+	left: 465px;
 }
 .sushi{
 	border: 1.5px solid black;
@@ -206,6 +207,6 @@ p {
 	background-color: #ebe97a;
 	width: 103px;
 	position: absolute;
-	top: 3px;
-	left: 1310px;
+	top: -30px;
+	left: 460px;
 }
